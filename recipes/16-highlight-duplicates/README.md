@@ -59,4 +59,4 @@ For simple cases use **Home → Conditional Formatting → Highlight Cells Rules
 - Ready to delete them? See [remove duplicate rows](../remove-duplicate-rows/) or [keep the latest entry](../remove-duplicates-keep-latest/).
 
 ---
-Need it set up for you? $49 fixed-price fix at https://cogandcell.com
+Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing

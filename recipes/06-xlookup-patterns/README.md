@@ -63,4 +63,4 @@ Copy-paste lookups for the cases that trip people up: two criteria, whole column
 - In the tiered-pricing pattern, `-1` means “exact match, or the next smaller value”. Sort isn't required.
 
 ---
-Need it set up for you? $49 fixed-price fix at https://cogandcell.com
+Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing

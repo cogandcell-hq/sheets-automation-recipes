@@ -58,4 +58,4 @@ Build live summaries with one formula: filter, group, pivot and sort, without pi
 - Dates in a query string must use the `date 'yyyy-mm-dd'` format, which is why the TEXT() wrapper is there.
 
 ---
-Need it set up for you? $49 fixed-price fix at https://cogandcell.com
+Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing

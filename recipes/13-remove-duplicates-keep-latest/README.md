@@ -105,4 +105,4 @@ function keepLatestPerKey() {
 - Don't run the in-place script on a live Form responses tab you never want altered; use the formula view instead.
 
 ---
-Need it set up for you? $49 fixed-price fix at https://cogandcell.com
+Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing

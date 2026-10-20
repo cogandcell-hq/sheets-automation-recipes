@@ -83,4 +83,4 @@ function emailOnChange(e) {
 - Emails come from the account that ran `installEditTrigger`, and count against its daily Apps Script email quota.
 
 ---
-Need it set up for you? $49 fixed-price fix at https://cogandcell.com
+Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing

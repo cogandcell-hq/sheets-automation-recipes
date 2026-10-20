@@ -41,8 +41,8 @@ https://cogandcell.com/answers/.
 
 ## Need it set up for you?
 
-$49 fixed-price fix at https://cogandcell.com. Send a copy of your sheet and we'll adapt a recipe to your columns, test it,
-and send short handoff notes.
+Fixed price, free quote: see pricing at https://cogandcell.com/pricing. Send a copy of your sheet and we'll adapt a
+recipe to your columns, test it, and send short handoff notes.
 
 ## AI disclosure
 

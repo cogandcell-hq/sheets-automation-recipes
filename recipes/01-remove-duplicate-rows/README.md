@@ -105,4 +105,4 @@ function removeDuplicateRows() {
 - Google Sheets also has **Data → Data cleanup → Remove duplicates** for one-off manual cleanups.
 
 ---
-Need it set up for you? $49 fixed-price fix at https://cogandcell.com
+Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing

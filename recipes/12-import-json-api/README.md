@@ -74,8 +74,8 @@ function installHourlyImport() {
 ## Good to know
 
 - The script sends the key as `Authorization: Bearer …`, which most APIs use. Some want a different header or a query parameter; check your API's docs.
-- Many APIs return results in pages (e.g. 100 at a time). Fetching every page needs a small loop. That's a typical $49 quick fix.
+- Many APIs return results in pages (e.g. 100 at a time). Fetching every page needs a small loop. That's a typical Quick fix.
 - Arrays and objects you don't list as dot paths are written as JSON text so nothing is silently lost.
 
 ---
-Need it set up for you? $49 fixed-price fix at https://cogandcell.com
+Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing

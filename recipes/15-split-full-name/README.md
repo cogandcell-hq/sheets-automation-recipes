@@ -85,4 +85,4 @@ The last-name trick swaps every space for 100 spaces, takes the right-most 100 c
 - Non-breaking spaces from web copy defeat TRIM. Clean them first with `SUBSTITUTE(A2, CHAR(160), " ")`; see [clean messy data](../clean-messy-data/).
 
 ---
-Need it set up for you? $49 fixed-price fix at https://cogandcell.com
+Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing

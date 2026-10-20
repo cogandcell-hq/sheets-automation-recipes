@@ -102,4 +102,4 @@ function sendOverdueReminders() {
 - This sends reminders only. It doesn't calculate late fees or interest, and it isn't accounting or legal advice.
 
 ---
-Need it set up for you? $49 fixed-price fix at https://cogandcell.com
+Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing
