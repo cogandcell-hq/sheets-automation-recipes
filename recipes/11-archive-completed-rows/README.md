@@ -84,4 +84,4 @@ function archiveAllDone() {
 - Combining with the timestamp recipe? Keep one `onEdit` that calls both `stampOnEdit(e)` and `archiveOnEdit(e)`.
 
 ---
-Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing
+**Want it set up for you?** Get a free quote: https://cogandcell.com/#request (fixed price, see https://cogandcell.com/pricing)

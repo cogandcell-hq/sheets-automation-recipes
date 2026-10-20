@@ -78,4 +78,4 @@ function installHourlyImport() {
 - Arrays and objects you don't list as dot paths are written as JSON text so nothing is silently lost.
 
 ---
-Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing
+**Want it set up for you?** Get a free quote: https://cogandcell.com/#request (fixed price, see https://cogandcell.com/pricing)

@@ -125,4 +125,4 @@ if __name__ == "__main__":
 - Apps Script can process roughly 6 minutes of work per run. That's plenty for tens of thousands of rows; bigger jobs should use the Python version.
 
 ---
-Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing
+**Want it set up for you?** Get a free quote: https://cogandcell.com/#request (fixed price, see https://cogandcell.com/pricing)

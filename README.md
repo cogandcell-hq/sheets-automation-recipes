@@ -39,10 +39,11 @@ https://cogandcell.com/answers/.
 3. Apps Script (`.gs` files): in your spreadsheet open **Extensions → Apps Script**, paste the code, edit the config block
    at the top, save, and follow the recipe's trigger or run steps.
 
-## Need it set up for you?
+## Want it set up for you?
 
-Fixed price, free quote: see pricing at https://cogandcell.com/pricing. Send a copy of your sheet and we'll adapt a
-recipe to your columns, test it, and send short handoff notes.
+Get a free quote: https://cogandcell.com/#request. Send a copy of your sheet (or describe the problem) and we'll adapt a
+recipe to your columns, test it, and send short handoff notes. Fixed price, agreed before you pay: see
+https://cogandcell.com/pricing.
 
 ## AI disclosure
 

@@ -66,4 +66,4 @@ function stampOnEdit(e) {
 - Already have an `onEdit` function in this project? Keep one `onEdit` and call `stampOnEdit(e)` from it.
 
 ---
-Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing
+**Want it set up for you?** Get a free quote: https://cogandcell.com/#request (fixed price, see https://cogandcell.com/pricing)

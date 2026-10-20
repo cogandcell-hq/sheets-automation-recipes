@@ -80,4 +80,4 @@ function installHourlySync() {
 - Anyone who can see your sheet can see the imported data, even without access to the source file. Import only what's needed.
 
 ---
-Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing
+**Want it set up for you?** Get a free quote: https://cogandcell.com/#request (fixed price, see https://cogandcell.com/pricing)

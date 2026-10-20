@@ -87,4 +87,4 @@ function onFormSubmitHandler(e) {
 - To stop it: Apps Script → Triggers (clock icon) → delete the trigger.
 
 ---
-Want it done for you? Fixed price, free quote: see pricing at https://cogandcell.com/pricing
+**Want it set up for you?** Get a free quote: https://cogandcell.com/#request (fixed price, see https://cogandcell.com/pricing)
